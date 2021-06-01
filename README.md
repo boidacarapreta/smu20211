@@ -7,6 +7,7 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 - [farmy](https://github.com/pf-game-studio/farmy), de [pf-game-studio](https://github.com/pf-game-studio) ([projeto](https://github.com/pf-game-studio/farmy/projects/1?fullscreen=true))
 - [jogo-web-smu](https://github.com/marcelo-osvaldo-smu/jogo-web-smu), de [marcelo-osvaldo-smu](https://github.com/marcelo-osvaldo-smu) ([projeto](https://github.com/marcelo-osvaldo-smu/jogo-web-smu/projects/1?fullscreen=true))
 - [jogo-web-rtc](https://github.com/Douglas-and-Adonis/jogo-web-rtc), de [Douglas-and-Adonis](https://github.com/Douglas-and-Adonis) ([projeto](https://github.com/Douglas-and-Adonis/jogo-web-rtc/projects/1?fullscreen=true))
+- [jogo-web](https://github.com/SMU-Amanda-Felipe/jogo-web), de [SMU-Amanda-Felipe](https://github.com/SMU-Amanda-Felipe) ([projeto](https://github.com/SMU-Amanda-Felipe/jogo-web/projects/1?fullscreen=true))
 
 # Entregas
 
@@ -15,3 +16,4 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 | pf-game-studio      | 10        |
 | marcelo-osvaldo-smu | 10        |
 | Douglas-and-Adonis  | 3         |
+| SMU-Amanda-Felipe   | -         |
