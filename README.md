@@ -15,5 +15,5 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 | ------------------- | --------- |
 | pf-game-studio      | 10        |
 | marcelo-osvaldo-smu | 10        |
-| Douglas-and-Adonis  | 3         |
+| Douglas-and-Adonis  | 10        |
 | SMU-Amanda-Felipe   | -         |
