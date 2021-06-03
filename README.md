@@ -8,6 +8,7 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 - [jogo-web-smu](https://github.com/marcelo-osvaldo-smu/jogo-web-smu), de [marcelo-osvaldo-smu](https://github.com/marcelo-osvaldo-smu) ([projeto](https://github.com/marcelo-osvaldo-smu/jogo-web-smu/projects/1?fullscreen=true))
 - [jogo-web-rtc](https://github.com/Douglas-and-Adonis/jogo-web-rtc), de [Douglas-and-Adonis](https://github.com/Douglas-and-Adonis) ([projeto](https://github.com/Douglas-and-Adonis/jogo-web-rtc/projects/1?fullscreen=true))
 - [jogo-web](https://github.com/SMU-Amanda-Felipe/jogo-web), de [SMU-Amanda-Felipe](https://github.com/SMU-Amanda-Felipe) ([projeto](https://github.com/SMU-Amanda-Felipe/jogo-web/projects/1?fullscreen=true))
+- [take-pots](https://github.com/web-game-SMU/take-pots), de [web-game-SMU](https://github.com/web-game-SMU/take-pots)
 
 # Entregas
 
