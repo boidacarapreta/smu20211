@@ -8,13 +8,14 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 - [jogo-web-smu](https://github.com/marcelo-osvaldo-smu/jogo-web-smu), de [marcelo-osvaldo-smu](https://github.com/marcelo-osvaldo-smu) ([projeto](https://github.com/marcelo-osvaldo-smu/jogo-web-smu/projects/1?fullscreen=true))
 - [jogo-web-rtc](https://github.com/Douglas-and-Adonis/jogo-web-rtc), de [Douglas-and-Adonis](https://github.com/Douglas-and-Adonis) ([projeto](https://github.com/Douglas-and-Adonis/jogo-web-rtc/projects/1?fullscreen=true))
 - [jogo-web](https://github.com/SMU-Amanda-Felipe/jogo-web), de [SMU-Amanda-Felipe](https://github.com/SMU-Amanda-Felipe) ([projeto](https://github.com/SMU-Amanda-Felipe/jogo-web/projects/1?fullscreen=true))
-- [take-pots](https://github.com/web-game-SMU/take-pots), de [web-game-SMU](https://github.com/web-game-SMU/take-pots)
+- [take-pots](https://github.com/web-game-SMU/take-pots), de [web-game-SMU](https://github.com/web-game-SMU/take-pots) ([projeto](https://github.com/web-game-SMU/take-pots/projects/1?fullscreen=true))
 
 # Entregas
 
-| Equipe              | Entrega 1 |
-| ------------------- | --------- |
-| pf-game-studio      | 10        |
-| marcelo-osvaldo-smu | 10        |
-| Douglas-and-Adonis  | 10        |
-| SMU-Amanda-Felipe   | -         |
+| Equipe              | Entrega 1 | Entrega 2 |
+| ------------------- | --------- | --------- |
+| pf-game-studio      | 10        | 10        |
+| marcelo-osvaldo-smu | 10        | 10        |
+| Douglas-and-Adonis  | 10        | -         |
+| SMU-Amanda-Felipe   | -         | -         |
+| web-game-SMU        | 3         | -         |
