@@ -12,10 +12,10 @@ Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas 
 
 # Entregas
 
-| Equipe              | Entrega 1 | Entrega 2 |
-| ------------------- | --------- | --------- |
-| pf-game-studio      | 10        | 10        |
-| marcelo-osvaldo-smu | 10        | 10        |
-| Douglas-and-Adonis  | 10        | -         |
-| SMU-Amanda-Felipe   | -         | -         |
-| web-game-SMU        | 3         | -         |
+| Equipe              | Entrega 1 | Entrega 2 | Entrega 3 |
+| ------------------- | --------- | --------- | --------- |
+| pf-game-studio      | 10        | 10        | 10        |
+| marcelo-osvaldo-smu | 10        | 10        | 10        |
+| Douglas-and-Adonis  | 10        | 10        | 5         |
+| SMU-Amanda-Felipe   | 10        | 10        | 5         |
+| web-game-SMU        | -         | -         | -         |
