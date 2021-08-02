@@ -42,6 +42,20 @@ server {
 }
 ```
 
+A configuração é modular: em `/etc/nginx/conf.d` cada aluno pode parametrizar seu _backend_. A seguir, o arquivo `etorresini.conf` como exemplo de _backend_ HTTP com WebSocket:
+
+```nginx
+# Modelo de proxy reverso para SMU 2021.1
+#
+location /etorresini/ {
+	proxy_pass http://localhost:3000/;
+	proxy_http_version 1.1;
+	proxy_set_header Upgrade $http_upgrade;
+	proxy_set_header Connection "Upgrade";
+	proxy_set_header Host $host;
+}
+```
+
 Além de HTTP, este servidor também suporta o protocolo STUN/TURN com a implementação `coturn` e sua respectiva configuração:
 
 ```ini
