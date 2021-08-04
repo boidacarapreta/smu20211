@@ -1,10 +1,14 @@
 # SMU 2021.1
 
-Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas Multimídia do Curso de Engenharia de Telecomunicações do IFSC câmpus São José
+Projeto de desenvolvimento de jogo Web com WebRTC para a disciplina de Sistemas Multimídia (SMU) do Curso de Engenharia de Telecomunicações do Instituto Federal de Santa Catarina (IFSC) câmpus São José.
 
-## Infraestrutura
+## Serviços
 
-O servidor `smu20211.sj.ifsc.edu.br` suporta o protocolo HTTP via NGINX. A configuração global do serviço está assim:
+A disciplina de SMU conta com um servidor dedicado, `smu20211.sj.ifsc.edu.br`, para hospedar os projetos das equipes baseados em HTTP e STUN/TURN.
+
+### HTTP
+
+O servidor suporta o protocolo HTTP via NGINX. A configuração global do serviço está assim:
 
 ```nginx
 # Virtual host smu20211.sj.ifsc.edu.br
@@ -29,7 +33,7 @@ server {
     ssl_session_timeout 1d;
     ssl_session_cache shared:MozSSL:10m;
     ssl_session_tickets off;
-    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_protocols TLSv1.3;
     ssl_prefer_server_ciphers off;
     add_header Strict-Transport-Security "max-age=63072000" always;
     ssl_stapling on;
@@ -55,6 +59,8 @@ location /etorresini/ {
 	proxy_set_header Host $host;
 }
 ```
+
+### STUN/TURN
 
 Além de HTTP, este servidor também suporta o protocolo STUN/TURN com a implementação `coturn` e sua respectiva configuração:
 
