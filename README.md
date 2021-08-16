@@ -116,10 +116,10 @@ user=osvaldo.sn:smu20211
 
 # Entregas
 
-| Equipe              | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4         | Entrega 5         | Entrega 6 |
-| ------------------- | --------- | --------- | --------- | ----------------- | ----------------- | --------- |
-| pf-game-studio      | 10        | 10        | 10        | 10 **(pendente)** | 10 **(pendente)** | -         |
-| marcelo-osvaldo-smu | 10        | 10        | 10        | 10                | 10                | -         |
-| Douglas-and-Adonis  | 10        | 10        | 10        | 10 **(pendente)** | -                 | -         |
-| SMU-Amanda-Felipe   | 10        | 10        | 10        | 10 **(pendente)** | -                 | -         |
-| web-game-SMU        | -         | -         | -         | -                 | -                 | -         |
+| Equipe              | Entrega 1 | Entrega 2 | Entrega 3 | Entrega 4 | Entrega 5 | Entrega 6 |
+| ------------------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| pf-game-studio      | 10        | 10        | 10        | 10        | 10        | 5         |
+| marcelo-osvaldo-smu | 10        | 10        | 10        | 10        | 10        | 10        |
+| Douglas-and-Adonis  | 10        | 10        | 10        | 10        | 3         | -         |
+| SMU-Amanda-Felipe   | 10        | 10        | 10        | 10        | -3        | -         |
+| web-game-SMU        | -         | -         | -         | -         | -         | -         |
