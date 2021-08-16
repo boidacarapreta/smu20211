@@ -121,5 +121,5 @@ user=osvaldo.sn:smu20211
 | pf-game-studio      | 10        | 10        | 10        | 10        | 10        | 5         |
 | marcelo-osvaldo-smu | 10        | 10        | 10        | 10        | 10        | 10        |
 | Douglas-and-Adonis  | 10        | 10        | 10        | 10        | 3         | -         |
-| SMU-Amanda-Felipe   | 10        | 10        | 10        | 10        | -3        | -         |
+| SMU-Amanda-Felipe   | 10        | 10        | 10        | 10        | 3         | -         |
 | web-game-SMU        | -         | -         | -         | -         | -         | -         |
